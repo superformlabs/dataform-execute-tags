@@ -1,4 +1,4 @@
-const file_context = require("includes/notebook_template.json");
+const file_context = require("./includes/notebook_template.json");
 
 /**
  * @typedef {Object} NotebookConfig
